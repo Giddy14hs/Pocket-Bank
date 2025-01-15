@@ -40,3 +40,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/build/8c3ca68840a935e76bead913bcb34106
+/build/flutter_assets
+/build/cache.dill.track.dill
